@@ -17,7 +17,7 @@ Most important ressources are the following:
 
 *   The final prototype for FL using the HAM10000 dataset [tff_skin_lesion_classification_final_prototype_v3.ipynb](https://github.com/ChristinaSalker/federated-learning/blob/master/tff_skin_lesion_classification_final_prototype_v3.ipynb)
 
-## Requirements to run the noetbooks
+## Requirements to run the notebooks
 
 *   Google Account (to use Google Drive and Google Colab)
 *   Kaggle Account (to create a Kaggle token for Colab)
