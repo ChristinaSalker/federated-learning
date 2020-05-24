@@ -24,4 +24,4 @@ Most important ressources are the following:
 *   Google Account (to use Google Drive and Google Colab)
 *   Kaggle Account (to create a Kaggle token for Colab)
 
-Setup these accounts is for free. This article [Setting Up Kaggle in Google Colab](https://towardsdatascience.com/setting-up-kaggle-in-google-colab-ebb281b61463) by Anne Bonner is a great help, if you are new to Kaggle and the Colab environment.
+Setting up these accounts is for free. This article [Setting Up Kaggle in Google Colab](https://towardsdatascience.com/setting-up-kaggle-in-google-colab-ebb281b61463) by Anne Bonner is a great help to configure the Kaggle and Colab environment.
