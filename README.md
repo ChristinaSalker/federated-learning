@@ -1,7 +1,7 @@
 # federated-learning
 This repository contains all the ressources published within the scope of this master thesis.
 
-## Thesis objective
+## Thesis objectives
 
 Within the scope of this thesis, the author explores new possibilities to leverage machine learning on decentralized health data by developing a **prototype solution with the FL framework from TensorFlow**. Following the design science research methodology proposed by the authors of Peffers et al. (2007), the objective of the design and development phase is to work with a concrete health care use case to make the prototype solution more tangible. 
 
