@@ -11,7 +11,7 @@ There are many different health care use cases and types of decentralized health
 
 Most important ressources are the following:
 
-*   Tutorial Federated Learning for Image Classification [tff_tutorial_federated_learning_for_image_classification.ipynb](https://github.com/ChristinaSalker/federated-learning/blob/master/tutorial_federated_learning_for_image_classification.ipynb)
+*   Tutorial Federated Learning for Image Classification [tff_tutorial_federated_learning_for_image_classification.ipynb](https://github.com/ChristinaSalker/federated-learning/blob/master/tff_tutorial_federated_learning_for_image_classification_v2.ipynb)
 
 *   Centralized ML process using the HAM10000 dataset [tff_skin_lesion_classification_etl_v6.ipynb](https://github.com/ChristinaSalker/federated-learning/blob/master/tff_skin_lesion_classification_etl_v6.ipynb)
 
