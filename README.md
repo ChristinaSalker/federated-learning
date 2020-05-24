@@ -7,8 +7,6 @@ Within the scope of this thesis, the author explores new possibilities to levera
 
 There are many different health care use cases and types of decentralized health data that could have been chosen for the prototype development phase of this thesis. To limit the scope, the author chose to work with the example of a skin lesion type classification, using the **open-source HAM10000 dataset**. Thus, it is important to note that this thesis only practically explores one type of machine learning model and one type of health data. Concludingly, a generalization of whether federated learning can be implemented for applications in the health care and medical industry, can only be formulated in a limited way beyond the explored use case. 
 
-## Research questions
-
 ## Overview of the most important Python notebooks
 
 Most important ressources are the following:
